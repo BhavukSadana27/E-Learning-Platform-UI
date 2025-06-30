@@ -48,4 +48,5 @@ A **responsive, single-page educational website** built with **HTML**, **CSS**, 
 
 ---
 
+![image](https://github.com/user-attachments/assets/a47dd978-00fb-49c1-a4e2-b9b3f8d4de4f)
 
